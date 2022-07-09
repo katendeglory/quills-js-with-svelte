@@ -9,5 +9,5 @@
 </script>
 
 <div>
-  <QuillEditor {initValue} on:contentChange={handleContentChange} />
+  <QuillEditor {initValue} on:contentChange={handleContentChange} classN="yeah" />
 </div>
